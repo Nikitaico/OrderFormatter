@@ -1,0 +1,16 @@
+# Папки компиляции и сборки
+bin/
+obj/
+
+# Персональные настройки пользователя (Visual Studio / VS Code)
+*.user
+
+# Автогенерируемые файлы восстановления NuGet
+*.nuget.dgspec.json
+*.nuget.g.props
+*.nuget.g.targets
+project.assets.json
+project.nuget.cache
+
+# Логи сборки
+*.log
